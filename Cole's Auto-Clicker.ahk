@@ -24,6 +24,7 @@ Gui, Add, Radio, x5 y+5 vToggleHold gUpdate, Toggle holding click by pressing MM
 GuiControl, Disable, ToggleHold
 Gui, Submit
 Gui, Show, x0 y865 AutoSize, Cole's Auto-Clicker v3
+Return
 
 GuiClose:
 	ExitApp
